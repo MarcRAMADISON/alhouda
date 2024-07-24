@@ -1,0 +1,38 @@
+.footerContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    width:100%;
+    max-width: 1600px;
+    height: 100px;
+    background-color: #2b2dff;
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+    left:0;
+}
+
+.contactBlock{
+    display: flex;
+}
+
+.contact{
+    font-size: 1rem;
+    font-weight: bold;
+    color:#f0f0f0
+}
+
+.text{
+    font-size: 0.8rem;
+    color:#f0f0f0
+
+}
+
+.contactIcones{
+    width:20px;
+    height:17px;
+    margin-left: 20px;
+
+}

@@ -1,0 +1,10 @@
+.cardContainer{
+    width:100%;
+    height: 300px;
+    background-color: beige;
+}
+
+.cardImage{
+    width: fit-content;
+    height: 10px;
+}

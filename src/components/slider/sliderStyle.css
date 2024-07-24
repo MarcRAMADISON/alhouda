@@ -1,0 +1,8 @@
+.carouselContainer{
+    width:100%;
+    background-color: blue;
+}
+
+.image{
+    max-height:300px;
+}
